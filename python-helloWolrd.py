@@ -9,11 +9,4 @@ print('\n',user_string)
 
 #more blah blah blah
 
-# blah blah
-# weihjfnbrewivewr 
-
-print('gergewrgrg')
-
-print('dsfsdfsed')
-
-print('dfgfd0')
+print(user_string)
